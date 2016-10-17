@@ -1,0 +1,7 @@
+#Sun Oct 16 23:42:26 EDT 2016
+base.0=/home/paul/workspace/betwin/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca2a98b85a88f014a7c7ebd83b4a32a1847a9690
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/paul/workspace/betwin/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b55aed57b46291fb1ee5dbb254c103d57bf6193/classes.dex
+base.1=/home/paul/workspace/betwin/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b55aed57b46291fb1ee5dbb254c103d57bf6193
+file.0=/home/paul/workspace/betwin/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca2a98b85a88f014a7c7ebd83b4a32a1847a9690/classes.dex
